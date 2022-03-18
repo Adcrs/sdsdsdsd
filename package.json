@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@iamtraction/google-translate": "^1.1.2",
+    "discord-speech-recognition": "^2.2.0",
+    "discord-tts": "^1.2.1",
+    "ffmpeg-static": "^4.4.1",
+    "fs": "^0.0.1-security",
+    "google-tts-api": "^2.0.2",
+    "yt-search": "^2.10.3",
+    "ytdl-core": "^4.11.0"
+  }
+}
