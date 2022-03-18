@@ -296,4 +296,4 @@ client.on("ready", () => {
     });
 });
 
-client.login("OTU0Mjc4MjE1ODEwMTc0OTc2.YjQy2A.eymm83_D9iNejw_XiEDn1uwSIoU");
+client.login();
